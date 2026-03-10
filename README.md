@@ -48,8 +48,6 @@ print(lu_solve((lu,piv),b))
 */
 ```
 ## Output:
-![lu decomposition]()
-
 <img width="789" height="919" alt="Screenshot 2026-03-10 084600" src="https://github.com/user-attachments/assets/9f1c44f4-b784-44b0-9c51-487ca34ff72d" />
 
 <img width="741" height="916" alt="Screenshot 2026-03-10 084621" src="https://github.com/user-attachments/assets/09a86a0b-3864-4561-9cc9-9a6d7637ee6c" />
